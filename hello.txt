@@ -18,3 +18,4 @@
 18
 19
 test pull
+test remote/git_demo/test_branch

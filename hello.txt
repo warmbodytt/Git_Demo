@@ -19,3 +19,4 @@
 19
 test pull
 test remote/git_demo/test_branch
+test pull with the same commit version
